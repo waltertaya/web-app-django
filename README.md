@@ -1,2 +1,2 @@
 # WEB APP USING DJANGO
-`@waltertaya'
+- @waltertaya - implementing logging app 
